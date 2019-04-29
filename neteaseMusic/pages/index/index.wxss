@@ -1,0 +1,22 @@
+/**index.wxss**/
+.usermotto {
+  margin-top: 20px;
+}
+.songList {
+  width: 100%;
+}
+.item {
+  width: 100%;
+  height: 45px;
+  display: flex;
+}
+.index {
+  width: 10%;
+  padding: 5px;
+  text-align: center;
+}
+.rightView {
+  width: 90%;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
