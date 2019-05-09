@@ -1,0 +1,8 @@
+<!-- 短信验证码 -->
+<countdown
+ start = "{{start}}"
+ bind:getCountdownEvent = "_getCountdownEvent"
+ bind:setStarDataEvent = "_setStarDataEvent"
+>
+
+</countdown>
